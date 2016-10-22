@@ -1,0 +1,21 @@
+html {
+  font-family: Roboto, sans-serif;
+}
+
+h1 {
+  font-weight: 900;
+}
+
+.banner {
+  background-color: #372a03;
+  color: #fff;
+}
+
+.banner .btn {
+  border-color: #e2e2e2;
+  color: #fff;
+}
+
+.banner .btn:hover {
+  color: #333;
+}
